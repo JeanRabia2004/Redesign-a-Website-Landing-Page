@@ -18,7 +18,10 @@ Overall, my redesign gives the Riley landing page a warm, inviting, and parent-c
 
 ##OUTPUT
 
+##EXISTING DESIGN
+
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/6693faaf-96e4-4116-974f-b3789090a4d7" />
 
+##REDESIGNED VERSION
 
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/edf74e4d-fcda-4857-9797-1eee03b0fd8e" />
