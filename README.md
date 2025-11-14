@@ -1,9 +1,15 @@
 # Redesign-a-Website-Landing-Page
+
 **COMPANY**: CODTECH IT SOLUTIONS
+
 **INTERN ID**: CT04DR519
+
 **DOMAIN**: UI/UX
+
 **DURATION**: 4 weeks
+
 **MENTOR**: NEELA SANTHOSH
+
 #I selected a parenting-app landing page named Riley and redesigned it to enhance both its aesthetics and emotional appeal. My focus was to create a design that feels more connected to parents, rather than resembling a child-focused interface. The original page had colors and elements that felt slightly childish, which did not fully reflect the emotional depth, responsibility, and warmth experienced by parents.
 In my redesign, I chose a color palette that communicates the bond between a parent and a child. Soft purples, warm peach tones, and gentle gradients were selected because each color reflects an emotion—such as calmness, trust, affection, and nurturing. These shades create a comfortable and mature atmosphere that aligns with the mindset of parents who seek guidance, support, and reliability from a parenting app.
 To improve the overall aesthetics, I incorporated cloud and leaf elements into the layout. The clouds give a soothing, comforting feel, while the leaves symbolize growth, care, and the natural journey of parenting. These additions help the design feel more expressive and visually meaningful without making the interface look cluttered.
