@@ -15,3 +15,8 @@ In my redesign, I chose a color palette that communicates the bond between a par
 To improve the overall aesthetics, I incorporated cloud and leaf elements into the layout. The clouds give a soothing, comforting feel, while the leaves symbolize growth, care, and the natural journey of parenting. These additions help the design feel more expressive and visually meaningful without making the interface look cluttered.
 I also refined the spacing, alignment, and visual hierarchy to make the content easier to read. The feature cards were redesigned with better colors and cleaner shapes, and the call-to-action buttons were updated with improved contrast and modern gradient styling.
 Overall, my redesign gives the Riley landing page a warm, inviting, and parent-centered look. It visually communicates trust, care, and emotional connection—qualities that are essential for a parenting support platform.
+
+##OUTPUT
+
+<img width="1560" height="10223" alt="Image" src="https://github.com/user-attachments/assets/6693faaf-96e4-4116-974f-b3789090a4d7" />
+<img width="1440" height="9226" alt="Image" src="https://github.com/user-attachments/assets/edf74e4d-fcda-4857-9797-1eee03b0fd8e" />
